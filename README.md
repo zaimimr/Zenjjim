@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zaim Imran  
+### Hei 👋 Mitt navn er Zaim Imran  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=zenjjim&&style=flat-square)  
 
