@@ -7,8 +7,8 @@
 - ⚡ Fun fact: Jeg foretrekker å ikke bruke light mode  
 
 ### Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=zenjjim&show_icons=true&count_private=true&hide_border=true" align="center" />  </div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenjjim&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=zenjjim&show_icons=true&count_private=true&hide_border=true" align="center" />  </div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenjjim&hide_border=true&layout=compact" align="center" /></div>  
 <br/>  
 
 ## Hva kan jeg
