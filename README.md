@@ -7,8 +7,8 @@
 - 🌱 For øyeblikket lærer jeg C++ og Kotlin  
 - ⚡ Fun fact: Alt+f4 for gull effekt 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zenjjim&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenjjim&theme=radical&layout=compact&card_width=445)](https://github.com/zenjjim/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zenjjim&theme=dracula&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenjjim&theme=dracula&layout=compact&card_width=445)
 
 ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=1133997059&cover_image=true&theme=default)
 
