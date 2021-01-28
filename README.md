@@ -8,6 +8,5 @@
 - ⚡ Fun fact: Alt+f4 for gull effekt
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zenjjim&theme=dracula&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenjjim&theme=dracula&layout=compact&card_width=445)
