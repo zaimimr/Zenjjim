@@ -3,7 +3,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=zenjjim&&style=flat-square)  
 ![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-- 🔭 Jobber som utvikler for TIHLDE INDEX og NTNUI SPRINT
+- 🔭 Jobber som utvikler for BLANK AS 
 - 🌱 For øyeblikket lærer jeg Rust og Kotlin
 - ⚡ Fun fact: Alt+f4 for gull effekt
 
